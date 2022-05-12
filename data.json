@@ -1,25 +1,25 @@
 [{
     "title":"ความรู้เกี่ยวกับคอมพิวเตอร์",
     "subtitle":"คอมพิวเตอร์ คือ อุปกรณ์ที่ใช้สำหรับการคำนวณและทำงานอื่นๆ",
-    "image_url":"https://cdn.pixabay.com/photo/2017/04/04/18/0
+    "image_url":"https://github.com/thararatlee1234/BasicAPI/blob/main/layout/Image/artificial-intelligence%20(1).jpg?raw=true",
     "detail":"dddddddddddddddddddddd"
 },
 {
     "title":"คอมพิวเตอร์คืออะไร",
     "subtitle":"เครื่องคอม",
-    "image_url":"https://cdn.pixabay.com/photo/2020/02/17/08/0
+    "image_url":"https://github.com/thararatlee1234/BasicAPI/blob/main/layout/Image/artificial-intelligence%20(1).jpg?raw=true",
     "detail":"sssssssssssssssssssssssss"
  },
  {
     "title":"การเขียนโปรแกรม",
     "subtitle":"โปรแกรมอะไรดี",
-    "image_url":"https://cdn.pixabay.com/photo/2016/06/16/02/3
+    "image_url":"https://github.com/thararatlee1234/BasicAPI/blob/main/layout/Image/artificial-intelligence%20(1).jpg?raw=true",
     "detail":"aaaaaaaaaaaaaaa"
  },
  {
     "title":"python",
     "subtitle":"โปรแกรมคอมพิวเตอร์",
-    "image_url":"https://cdn.pixabay.com/photo/2016/06/16/02/3
+    "image_url":"https://github.com/thararatlee1234/BasicAPI/blob/main/layout/Image/artificial-intelligence%20(1).jpg?raw=true"
     "detail":"gggggggggggggggg"
  }
 
